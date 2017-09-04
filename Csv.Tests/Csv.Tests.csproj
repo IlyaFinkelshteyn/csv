@@ -14,6 +14,7 @@
     <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
     <Authors>Steve Hansen</Authors>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
